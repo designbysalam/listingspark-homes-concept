@@ -1,8 +1,8 @@
-# ListingSpark Homes Concept
+# listingspark-real-estate
 
 ## Overview
 
-ListingSpark Homes Concept is a personal UI/UX design practice project created in Figma. The project explores a modern real estate platform that allows users to search, discover, and explore residential properties through a clean and intuitive interface.
+listingspark-real-estate is a personal UI/UX design practice project created in Figma. The project explores a modern real estate platform that allows users to search, discover, and explore residential properties through a clean and intuitive interface.
 
 ---
 
@@ -54,7 +54,7 @@ The goal of this project was to practice designing a modern real estate applicat
 
 ## Preview
 
-See **LISTINGSPARK HOMES.pdf** for the complete design.
+See **ListingSpark Homes.pdf** for the complete design.
 
 ---
 
